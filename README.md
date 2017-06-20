@@ -7,3 +7,9 @@ Proyecto de robot sencillo controlado por radio contro, para sostener algún tip
 * Usar perfiles de aluminio para chasis (base triangular)
 * 2 x Feather M0 RFM69 (controlador y receptor)
 * Usar librerías existente o desarrollar propias (depende de tiempo)
+
+
+## To-Do
+
+
+## Known Issues
