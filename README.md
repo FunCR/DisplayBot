@@ -16,3 +16,5 @@ Proyecto de robot sencillo controlado por radio control, para sostener algún ti
  * Hub de ruedas mas cortos y con mejor unión a los ejes
 
   
+## Bill of Materials
+
