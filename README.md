@@ -18,3 +18,11 @@ Proyecto de robot sencillo controlado por radio control, para sostener algún ti
   
 ## Bill of Materials
 
+* 2 x Adafruit Feather M0 RFM69 Packet Radio - 868 or 915 MHz
+* 2 x 3 Amp Stepper Bipolar Motor Driver (TB6560)
+* 2 x Stepper Motor - 125 oz.in (200 steps/rev, 600mm Wire
+* 2 x Battery 12v (Grande)
+* 1 x Regulator 12v to 5v
+* 1 x Dual Axis XY Joystick Module
+* 1 x Rocker Panel Switch 6A
+
